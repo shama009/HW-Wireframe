@@ -1,2 +1,2 @@
 # HW-Wireframe
-Home Work assignment -easy
+CSS wireframe template
